@@ -8,7 +8,7 @@ The analysis focuses on South Korea and compares it with benchmarking countries.
 
 Through this retrospective analysis, valuable lessons can be drawn that may inform future policy decisions both within South Korea and globally.
 
-<img src="SQL&Tableau.gif" alt="SQL&Tableau" width="400" height="250">
+<img src="SQL&Tableau.gif" alt="SQL&Tableau" width="450" height="281.25">
 
 ## Project Equipment
 
